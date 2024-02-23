@@ -1,3 +1,5 @@
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/shallow090/classic&branch=koyeb&name=classic)
+
 **<h1 align="center"><b>⍣ ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ</b></h1>**
 <p align="center">
   <a href="https://youtu.be/W4wSOZw8GXk">
