@@ -1,4 +1,4 @@
-# (c) adarsh-goel
+# (c) play-goel
 from pyrogram import Client
 import pyromod.listen
 from ..vars import Var
